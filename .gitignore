@@ -1,0 +1,6 @@
+# node
+node_modules
+
+# docker
+docker-compose.dev.yaml
+Dockerfile.dev
